@@ -72,12 +72,16 @@ Depending on the country, the state and the school may not have the same educati
 
 Let's take the example of [Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr), and the Capitol scandal in the USA. He used Twitter to mobilise the 'gullible' and politically like-minded population to protest arduously on Capitol Hill (continue via critical study of this case from three perspectives, Donald Trump (or his Twitter teams); the disruptive protesters; the rest of the US population.
 
+![Capitol's riots](https://www.revuedesdeuxmondes.fr/wp-content/uploads/2021/01/ABACA_752241_006-1.jpg)
+
 ![Donald Trump's twitter post](https://img.20mn.fr/pYhYNY2MQVCmE7H8uAICuA/830x532_twitter-bloque-compte-donald-trump-12-heures-violations-charte-apres-violences-washington-6-janvier-2021)
 
-[Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr) has maintained that the 2020 election was rigged and that his victory was stolen. He has repeated these allegations of voter fraud on Twitter and at rallies, including the protest that led to the invasion of the Capitol. He also called on his supporters to march on the Capitol on the day Congress met to certify Biden's victory.
+[Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr) has maintained that the 2020 election was rigged and that his victory was stolen. He has repeated these allegations of voter fraud on Twitter and at rallies, including the protest that led to the invasion of the Capitol. He also called on his supporters to march on the Capitol on the day Congress met to certify [Biden's](https://www.instagram.com/joebiden/) victory.
 In terms of the defence he could undertake, he could argue that he did not incite violence at his protest, and that he was simply expressing his views on the election. He could also argue that he did not intend to provoke the invasion of the Capitol, and that the demonstrators who did so acted on their own. Finally, he could invoke freedom of speech to defend himself.
 
 Members of Congress who supported Trump's allegations of voter fraud could thus be charged with inciting violence or supporting the protesters who invaded the Capitol. The protesters themselves could be charged with participating in an insurrection, committing violence, or violating rules of conduct inside the Capitol.
+
+![Capitol's riots](https://www.radiofrance.fr/s3/cruiser-production/2021/01/a1f56972-8988-4b6f-a986-d5dc918bacf5/1200x680_063_1294935359.jpg)
 
 Who is responsible, [Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr)? The social network Twitter? The election? The protesters? What are the pros and cons? There are several people and entities that could be considered responsible for the January 2021 invasion of the Capitol.
 
