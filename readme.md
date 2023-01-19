@@ -27,7 +27,7 @@ Supporting green initiatives, many Instagram users share information about green
 
 [https://www.instagram.com/explore/tags/sustainability/](https://www.instagram.com/explore/tags/sustainability/)
 
-For another example, actor **(*Leonardo DiCaprio*)** uses his Instagram account to raise awareness about climate change and biodiversity protection.
+For another example, actor **Leonardo DiCaprio** uses his Instagram account to raise awareness about climate change and biodiversity protection.
 
 [https://www.instagram.com/leonardodicaprio/](https://www.instagram.com/leonardodicaprio/)
 
