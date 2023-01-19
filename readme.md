@@ -1,8 +1,8 @@
-What is the impact of social media influence on its audience, and how can it be prevented ?
+*What is the impact of social media influence on its audience, and how can it be prevented?*
 I chose this topic because I don't like social medias, and I think this point of view is quite rare nowadays, especially for someone of my age. So I think I could have a critical and constructive approach without being biased. Social media have filled our daily lives for years. It is therefore useful to focus on one social network, in order to keep the examples concise and clear. My sources are quoted at the end of the GitHub repository.
 My essay plan will follow the headings below, 
 
-## Firstly, I will go over the concept and creation of the social media Instagram.
+# The concept and creation of the social media Instagram.
 
 Instagram was founded in 2010 by Kevin Systrom and Mike Krieger. The two co-founders met when they were both working at Odeo, a software development company that also launched Twitter. They decided to create Instagram after finding it difficult to share photos quickly and easily on existing social networks. They developed a mobile application that allowed users to take photos, filter them and share them on social networks in seconds.
 
@@ -10,7 +10,7 @@ The first version of the app was launched on the App Store in October 2010, only
 
 Instagram was acquired by Facebook in 2012 for $1 billion. Instagram's business model is primarily based on advertising. Advertisers can buy advertising space to promote their products and services to Instagram users. Ads can take the form of sponsored posts, video ads, sponsored stories and ads in stories. In addition, Instagram has recently started offering e-commerce features for businesses, such as the ability to add buy buttons directly to posts.
 
-# Then, we will look at the societal benefits it has brought.
+# The societal benefits it has brought.
 
 Here are some examples of using Instagram for social causes with sources to support them:
 
