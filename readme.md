@@ -66,7 +66,10 @@ Should schools include lessons on prevention and proper use in the curriculum? W
 Depending on the country, the state and the school may not have the same education programme, but every child should have received "prevention" and "awareness". All this in order to guard against the major risks of social media and their potential impact on the lives of future users.
 
 # What responsibilities do social media have towards the deviations that arise from the use of its platform ?
-Let's take the example of Donald Trump, and the Capitol scandal in the USA. He used Twitter to mobilise the 'gullible' and politically like-minded population to protest arduously on Capitol Hill (continue via critical study of this case from three perspectives, Donald Trump (or his Twitter teams); the disruptive protesters; the rest of the US population.
+
+Let's take the example of [Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr), and the Capitol scandal in the USA. He used Twitter to mobilise the 'gullible' and politically like-minded population to protest arduously on Capitol Hill (continue via critical study of this case from three perspectives, Donald Trump (or his Twitter teams); the disruptive protesters; the rest of the US population.
+
+https://img.20mn.fr/pYhYNY2MQVCmE7H8uAICuA/830x532_twitter-bloque-compte-donald-trump-12-heures-violations-charte-apres-violences-washington-6-janvier-2021
 
 Donald Trump has maintained that the 2020 election was rigged and that his victory was stolen. He has repeated these allegations of voter fraud on Twitter and at rallies, including the protest that led to the invasion of the Capitol. He also called on his supporters to march on the Capitol on the day Congress met to certify Biden's victory.
 In terms of the defence he could undertake, he could argue that he did not incite violence at his protest, and that he was simply expressing his views on the election. He could also argue that he did not intend to provoke the invasion of the Capitol, and that the demonstrators who did so acted on their own. Finally, he could invoke freedom of speech to defend himself.
