@@ -2,7 +2,7 @@ What is the impact of social media influence on its audience, and how can it be 
 I chose this topic because I don't like social medias, and I think this point of view is quite rare nowadays, especially for someone of my age. So I think I could have a critical and constructive approach without being biased. Social media have filled our daily lives for years. It is therefore useful to focus on one social network, in order to keep the examples concise and clear. My sources are quoted at the end of the GitHub repository.
 My essay plan will follow the headings below, 
 
-# Firstly, I will go over the concept and creation of the social media Instagram.
+## Firstly, I will go over the concept and creation of the social media Instagram.
 
 Instagram was founded in 2010 by Kevin Systrom and Mike Krieger. The two co-founders met when they were both working at Odeo, a software development company that also launched Twitter. They decided to create Instagram after finding it difficult to share photos quickly and easily on existing social networks. They developed a mobile application that allowed users to take photos, filter them and share them on social networks in seconds.
 
