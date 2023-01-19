@@ -15,18 +15,11 @@ Instagram was acquired by Facebook in 2012 for $1 billion. Instagram's business 
 
 Here are some examples of using Instagram for social causes with sources to support them:
 
-Mental health awareness has seen many Instagram users share messages of support and awareness for mental health, with hashtags such as **#mentalhealthawareness**. 
+Mental health awareness has seen many Instagram users share messages of support and awareness for mental health, with hashtags such as [**#mentalhealthawareness**](https://www.instagram.com/explore/tags/mentalhealthawareness/). 
 
-> For example, actress Jameela Jamil launched the **"I Weigh"** initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
+> For example, actress Jameela Jamil launched the [**"I Weigh"**](https://www.instagram.com/i_weigh/) initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
 
-[https://www.instagram.com/i_weigh/](https://www.instagram.com/i_weigh/)
-
-
-Supporting green initiatives, many Instagram users share information about green initiatives and sustainable projects, with hashtags such as **#gogreen** or **#sustainability**. 
-
-[https://www.instagram.com/explore/tags/gogreen/](https://www.instagram.com/explore/tags/gogreen/)
-
-[https://www.instagram.com/explore/tags/sustainability/](https://www.instagram.com/explore/tags/sustainability/)
+Supporting green initiatives, many Instagram users share information about green initiatives and sustainable projects, with hashtags such as [**#gogreen**](https://www.instagram.com/explore/tags/gogreen/) or [**#sustainability**](https://www.instagram.com/explore/tags/sustainability/). 
 
 For another example, actor **Leonardo DiCaprio** uses [his Instagram account](https://www.instagram.com/leonardodicaprio/) to raise awareness about climate change and biodiversity protection.
  
