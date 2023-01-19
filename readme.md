@@ -1,7 +1,7 @@
 *What is the impact of social media influence on its audience, and how can it be prevented?*
 
 I chose this topic because I don't like social medias, and I think this point of view is quite rare nowadays, especially for someone of my age. So I think I could have a critical and constructive approach without being biased. Social media have filled our daily lives for years. It is therefore useful to focus on one social network, in order to keep the examples concise and clear. My sources are quoted at the end of the GitHub repository.
-My essay plan will follow the headings below, 
+My essay plan will follow the headings below.
 
 # The concept and creation of the social media Instagram
 
