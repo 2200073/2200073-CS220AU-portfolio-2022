@@ -27,10 +27,7 @@ Supporting green initiatives, many Instagram users share information about green
 
 [https://www.instagram.com/explore/tags/sustainability/](https://www.instagram.com/explore/tags/sustainability/)
 
-For another example, actor **Leonardo DiCaprio** uses his Instagram account to raise awareness about climate change and biodiversity protection.
-
-[https://www.instagram.com/leonardodicaprio/](https://www.instagram.com/leonardodicaprio/)
-
+For another example, actor **Leonardo DiCaprio** uses [his Instagram account](https://www.instagram.com/leonardodicaprio/) to raise awareness about climate change and biodiversity protection.
  
 Supporting artists and creators: Instagram allows users to discover new talent and support them by sharing their work, which can help promote cultural diversity and creativity. This has enabled many artists to emerge or survive the COVID-19 pandemic. For example, the **@artistsupportpledge** account was created to support artists and creators during the health crisis in 2020, encouraging people to buy art.
 
