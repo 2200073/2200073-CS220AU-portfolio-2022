@@ -20,7 +20,7 @@ In the `assessement.md` file
 
 - [x] I familiarised myself with the marking rubric;
 - [x] I filled in the self-assessment table;
-- [o] I filled in the peer-assessment tables for which one student in my group provided feedback for;
-- [o] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
+*- [o] I filled in the peer-assessment tables for which one student in my group provided feedback for;
+*- [o] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
 
 The student registration number(s) of the student(s) I provided feedback with is:none
