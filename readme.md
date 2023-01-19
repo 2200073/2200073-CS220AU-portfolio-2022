@@ -35,6 +35,8 @@ Awareness of the virtuality of social networks refers to the realisation that in
 
 Users can post pictures of their holidays that look perfect, but have actually been carefully selected and edited to give the appearance of an ideal trip. This can lead others to feel dissatisfied with their own lives or their own holidays.
 
+![Perfect pics](https://plugins-media.makeupar.com/smb/blog/post/2022-05-20/97d92ae0-41c5-4868-a76e-662719afa077.jpg)
+
 People may present a very positive version of their life on social networks, sharing only the happy moments and hiding the problems or difficulties. This can give others the impression that their own life is less satisfying or successful.
 
 Relationships on social networks can be superficial and may not reflect the genuine and deep relationships that develop in real life. People may have hundreds of friends on social networks, but feel lonely and isolated in real life.
