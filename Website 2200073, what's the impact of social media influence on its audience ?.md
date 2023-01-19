@@ -18,17 +18,19 @@ Mental health awareness has seen many Instagram users share messages of support 
 
 > For example, actress Jameela Jamil launched the **"I Weigh"** initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
 
-[(https://www.instagram.com/i_weigh/)]
+[https://www.instagram.com/i_weigh/](https://www.instagram.com/i_weigh/)
+
 
 Supporting green initiatives, many Instagram users share information about green initiatives and sustainable projects, with hashtags such as **#gogreen** or **#sustainability**. 
 
-[(https://www.instagram.com/explore/tags/gogreen/)]
+[https://www.instagram.com/explore/tags/gogreen/](https://www.instagram.com/explore/tags/gogreen/)
 
-[(https://www.instagram.com/explore/tags/sustainability/)]
+[https://www.instagram.com/explore/tags/sustainability/](https://www.instagram.com/explore/tags/sustainability/)
 
 For another example, actor **(*Leonardo DiCaprio*)** uses his Instagram account to raise awareness about climate change and biodiversity protection.
 
-[(https://www.instagram.com/leonardodicaprio/)]
+[https://www.instagram.com/leonardodicaprio/](https://www.instagram.com/leonardodicaprio/)
+
  
 Supporting artists and creators: Instagram allows users to discover new talent and support them by sharing their work, which can help promote cultural diversity and creativity. This has enabled many artists to emerge or survive the COVID-19 pandemic. For example, the **@artistsupportpledge** account was created to support artists and creators during the health crisis in 2020, encouraging people to buy art.
 
