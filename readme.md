@@ -1,11 +1,13 @@
 *What is the impact of social media influence on its audience, and how can it be prevented?*
 
 I chose this topic because I don't like social medias, and I think this point of view is quite rare nowadays, especially for someone of my age. So I think I could have a critical and constructive approach without being biased. Social media have filled our daily lives for years. It is therefore useful to focus on one social network, in order to keep the examples concise and clear. My sources are quoted at the end of the GitHub repository.
-My essay plan will follow the headings below.
+My essay plan will follow the headings below, 
 
 # The concept and creation of the social media Instagram
 
-Instagram was founded in 2010 by Kevin Systrom and Mike Krieger. The two co-founders met when they were both working at Odeo, a software development company that also launched Twitter. They decided to create Instagram after finding it difficult to share photos quickly and easily on existing social networks. They developed a mobile application that allowed users to take photos, filter them and share them on social networks in seconds.
+Instagram was founded in 2010 by [Kevin Systrom](https://www.instagram.com/kevin/?hl=fr) and [Mike Krieger](https://www.instagram.com/mikeyk/?hl=fr). The two co-founders met when they were both working at Odeo, a software development company that also launched Twitter. They decided to create Instagram after finding it difficult to share photos quickly and easily on existing social networks. They developed a mobile application that allowed users to take photos, filter them and share them on social networks in seconds.
+
+![Kevin Systrom & Mike Krieger Instagram's founders](https://www.rollingstone.fr/wp-content/uploads/2018/09/kevin-systrom-mike-krieger.jpg)
 
 The first version of the app was launched on the App Store in October 2010, only for iOS, the app was an immediate success, and within two years it reached a user base of 30 million. In 2012, Facebook bought Instagram for $1 billion.
 
@@ -17,7 +19,7 @@ Here are some examples of using Instagram for social causes with sources to supp
 
 Mental health awareness has seen many Instagram users share messages of support and awareness for mental health, with hashtags such as [**#mentalhealthawareness**](https://www.instagram.com/explore/tags/mentalhealthawareness/). 
 
-*For example, actress Jameela Jamil launched the [**"I Weigh"**](https://www.instagram.com/i_weigh/) initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.*
+> For example, actress Jameela Jamil launched the [**"I Weigh"**](https://www.instagram.com/i_weigh/) initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
 
 Supporting green initiatives, many Instagram users share information about green initiatives and sustainable projects, with hashtags such as [**#gogreen**](https://www.instagram.com/explore/tags/gogreen/) or [**#sustainability**](https://www.instagram.com/explore/tags/sustainability/). 
 
