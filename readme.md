@@ -19,7 +19,7 @@ Here are some examples of using Instagram for social causes with sources to supp
 
 Mental health awareness has seen many Instagram users share messages of support and awareness for mental health, with hashtags such as [**#mentalhealthawareness**](https://www.instagram.com/explore/tags/mentalhealthawareness/). 
 
-> For example, actress Jameela Jamil launched the [**"I Weigh"**](https://www.instagram.com/i_weigh/) initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
+For example, actress [Jameela Jamil](https://www.instagram.com/jameelajamil/?hl=fr) launched the [**"I Weigh"**](https://www.instagram.com/i_weigh/) initiative on Instagram to promote self-acceptance and combat stereotypes of thinness.
 
 Supporting green initiatives, many Instagram users share information about green initiatives and sustainable projects, with hashtags such as [**#gogreen**](https://www.instagram.com/explore/tags/gogreen/) or [**#sustainability**](https://www.instagram.com/explore/tags/sustainability/). 
 
@@ -46,6 +46,7 @@ Social networks can be used to compare oneself to others, whether in terms of we
 It is important to remember that social networks are only a part of people's lives and do not reflect everyone's reality. It is important to maintain a healthy perspective and not become too involved in virtual relationships.
 
 # How should they be educated, and who should do it ?
+
 Social media have a huge impact on their audience because of the reach and virality they offer. Social networks allow users to easily share information, opinions and ideas with a large audience, which can have positive consequences, such as raising awareness of social causes or promoting self-expression, but also negative consequences, such as misinformation, cyberbullying, manipulation of public opinion.
 
 We need to be critical of the information we encounter on social networks, it is important not to take all information encountered on social networks at face value. It is important to check the source and accuracy of information before sharing it. It is also important to consider the reliability of the source and seek alternative opinions before making a decision. It is also important to remember that social networks can be used to spread misinformation or propaganda, so be critical of information that seems too good to be true.
