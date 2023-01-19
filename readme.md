@@ -25,7 +25,7 @@ Supporting green initiatives, many Instagram users share information about green
 
 For another example, actor **Leonardo DiCaprio** uses [his Instagram account](https://www.instagram.com/leonardodicaprio/) to raise awareness about climate change and biodiversity protection.
  
-Supporting artists and creators: Instagram allows users to discover new talent and support them by sharing their work, which can help promote cultural diversity and creativity. This has enabled many artists to emerge or survive the COVID-19 pandemic. For example, the [**@artistsupportpledge**](https://www.instagram.com/artistsupportpledge/) account was created to support artists and creators during the health crisis in 2020, encouraging people to buy art.
+Supporting artists and creators: Instagram allows users to discover new talent and support them by sharing their work, which can help promote cultural diversity and creativity. This has enabled many artists to emerge or survive the COVID-19 pandemic. For example, the **@artistsupportpledge** account was created to support artists and creators during the health crisis in 2020, encouraging people to buy art.
 
 These examples are just a small selection of the use of Instagram for social causes, there are many others. Users regularly use the platform to share messages of awareness and support for different causes, through hashtags, campaigns, dedicated accounts, etc.
 
@@ -74,19 +74,21 @@ Let's take the example of [Donald Trump](https://www.instagram.com/realdonaldtru
 
 ![Donald Trump's twitter post](https://img.20mn.fr/pYhYNY2MQVCmE7H8uAICuA/830x532_twitter-bloque-compte-donald-trump-12-heures-violations-charte-apres-violences-washington-6-janvier-2021)
 
-Donald Trump has maintained that the 2020 election was rigged and that his victory was stolen. He has repeated these allegations of voter fraud on Twitter and at rallies, including the protest that led to the invasion of the Capitol. He also called on his supporters to march on the Capitol on the day Congress met to certify Biden's victory.
+[Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr) has maintained that the 2020 election was rigged and that his victory was stolen. He has repeated these allegations of voter fraud on Twitter and at rallies, including the protest that led to the invasion of the Capitol. He also called on his supporters to march on the Capitol on the day Congress met to certify Biden's victory.
 In terms of the defence he could undertake, he could argue that he did not incite violence at his protest, and that he was simply expressing his views on the election. He could also argue that he did not intend to provoke the invasion of the Capitol, and that the demonstrators who did so acted on their own. Finally, he could invoke freedom of speech to defend himself.
 
 Members of Congress who supported Trump's allegations of voter fraud could thus be charged with inciting violence or supporting the protesters who invaded the Capitol. The protesters themselves could be charged with participating in an insurrection, committing violence, or violating rules of conduct inside the Capitol.
 
-Who is responsible, Donald Trump? The social network Twitter? The election? The protesters? What are the pros and cons? There are several people and entities that could be considered responsible for the January 2021 invasion of the Capitol.
+Who is responsible, [Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr)? The social network Twitter? The election? The protesters? What are the pros and cons? There are several people and entities that could be considered responsible for the January 2021 invasion of the Capitol.
 
-Donald Trump could be seen as the main culprit, as he repeated false allegations of voter fraud and called on his supporters to march on the Capitol. He could also be charged with inciting violence or inciting insurrection.
+[Donald Trump](https://www.instagram.com/realdonaldtrump/?hl=fr) could be seen as the main culprit, as he repeated false allegations of voter fraud and called on his supporters to march on the Capitol. He could also be charged with inciting violence or inciting insurrection.
 
 Twitter and other social media platforms could also be held responsible for allowing the spread of these allegations of voter fraud. They could be accused of contributing to misinformation and violence.
 
 It is also possible to hold the election responsible if irregularities were committed, but the election results were confirmed by several independent bodies and the Department of Justice and no evidence of massive fraud was found.
 
 Finally, the protesters who invaded the Capitol could be held responsible for their illegal actions.
+
+![Trump knew he lost](https://img.lemde.fr/2022/12/19/0/0/7732/5157/664/0/75/0/ce2e2b9_1671491532595-492661.jpg)
 
 It is important to note that each of these individuals and entities could put forward arguments to defend themselves, and it will be up to the courts to determine the exact responsibilities.
